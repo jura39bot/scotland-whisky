@@ -1,0 +1,734 @@
+{
+  "Glenfiddich 12": {
+    "region": "Speyside",
+    "prix_min": 29.9,
+    "prix_max": 35.5,
+    "meilleur_prix": {
+      "retailer": "Carrefour",
+      "prix": 29.9,
+      "url": "https://www.carrefour.fr/p/whisky-ecossais-single-malt-glenfiddich-12-ans-5010327915838"
+    },
+    "offres": [
+      {
+        "retailer": "Carrefour",
+        "retailer_type": "grande_distribution",
+        "price_eur": 29.9,
+        "url": "https://www.carrefour.fr/p/whisky-ecossais-single-malt-glenfiddich-12-ans-5010327915838"
+      },
+      {
+        "retailer": "Leclerc",
+        "retailer_type": "grande_distribution",
+        "price_eur": 30.5,
+        "url": "https://www.e.leclerc/cat/whisky?search=glenfiddich+12"
+      },
+      {
+        "retailer": "Whisky.de",
+        "retailer_type": "specialiste_online",
+        "price_eur": 32.9,
+        "url": "https://www.whisky.de/shop/whisky/schottland/speyside/glenfiddich-12-years-old.html"
+      },
+      {
+        "retailer": "Nicolas",
+        "retailer_type": "caviste",
+        "price_eur": 32.9,
+        "url": "https://www.nicolas.com/fr/search?q=glenfiddich+12"
+      },
+      {
+        "retailer": "La Maison du Whisky",
+        "retailer_type": "specialiste_online",
+        "price_eur": 34.9,
+        "url": "https://www.whisky.fr/whisky/distilleries/glenfiddich/glenfiddich-12-years.html"
+      },
+      {
+        "retailer": "Master of Malt",
+        "retailer_type": "specialiste_online",
+        "price_eur": 35.5,
+        "url": "https://www.masterofmalt.com/whiskies/glenfiddich/glenfiddich-12-year-old-whisky/"
+      }
+    ]
+  },
+  "The Glenlivet 12": {
+    "region": "Speyside",
+    "prix_min": 28.9,
+    "prix_max": 33.9,
+    "meilleur_prix": {
+      "retailer": "Carrefour",
+      "prix": 28.9,
+      "url": "https://www.carrefour.fr/p/whisky-single-malt-the-glenlivet-12-ans-5000299606117"
+    },
+    "offres": [
+      {
+        "retailer": "Carrefour",
+        "retailer_type": "grande_distribution",
+        "price_eur": 28.9,
+        "url": "https://www.carrefour.fr/p/whisky-single-malt-the-glenlivet-12-ans-5000299606117"
+      },
+      {
+        "retailer": "Leclerc",
+        "retailer_type": "grande_distribution",
+        "price_eur": 29.5,
+        "url": "https://www.e.leclerc/cat/whisky?search=glenlivet+12"
+      },
+      {
+        "retailer": "Whisky.de",
+        "retailer_type": "specialiste_online",
+        "price_eur": 31.9,
+        "url": "https://www.whisky.de/shop/whisky/schottland/speyside/the-glenlivet-12-years-old.html"
+      },
+      {
+        "retailer": "Nicolas",
+        "retailer_type": "caviste",
+        "price_eur": 31.9,
+        "url": "https://www.nicolas.com/fr/search?q=glenlivet+12"
+      },
+      {
+        "retailer": "La Maison du Whisky",
+        "retailer_type": "specialiste_online",
+        "price_eur": 33.9,
+        "url": "https://www.whisky.fr/whisky/distilleries/the-glenlivet/the-glenlivet-12-years.html"
+      }
+    ]
+  },
+  "Macallan 12 Double Cask": {
+    "region": "Speyside",
+    "prix_min": 49.9,
+    "prix_max": 56.0,
+    "meilleur_prix": {
+      "retailer": "Carrefour",
+      "prix": 49.9,
+      "url": "https://www.carrefour.fr/p/whisky-single-malt-the-macallan-12-ans-double-cask"
+    },
+    "offres": [
+      {
+        "retailer": "Carrefour",
+        "retailer_type": "grande_distribution",
+        "price_eur": 49.9,
+        "url": "https://www.carrefour.fr/p/whisky-single-malt-the-macallan-12-ans-double-cask"
+      },
+      {
+        "retailer": "Nicolas",
+        "retailer_type": "caviste",
+        "price_eur": 52.0,
+        "url": "https://www.nicolas.com/fr/search?q=macallan+12+double+cask"
+      },
+      {
+        "retailer": "La Maison du Whisky",
+        "retailer_type": "specialiste_online",
+        "price_eur": 54.9,
+        "url": "https://www.whisky.fr/whisky/distilleries/the-macallan/the-macallan-12-years-double-cask.html"
+      },
+      {
+        "retailer": "Master of Malt",
+        "retailer_type": "specialiste_online",
+        "price_eur": 56.0,
+        "url": "https://www.masterofmalt.com/whiskies/the-macallan/the-macallan-12-year-old-double-cask-whisky/"
+      }
+    ]
+  },
+  "Aberlour 10": {
+    "region": "Speyside",
+    "prix_min": 34.9,
+    "prix_max": 38.0,
+    "meilleur_prix": {
+      "retailer": "Carrefour",
+      "prix": 34.9,
+      "url": "https://www.carrefour.fr/p/whisky-single-malt-aberlour-10-ans"
+    },
+    "offres": [
+      {
+        "retailer": "Carrefour",
+        "retailer_type": "grande_distribution",
+        "price_eur": 34.9,
+        "url": "https://www.carrefour.fr/p/whisky-single-malt-aberlour-10-ans"
+      },
+      {
+        "retailer": "Leclerc",
+        "retailer_type": "grande_distribution",
+        "price_eur": 35.9,
+        "url": "https://www.e.leclerc/cat/whisky?search=aberlour+10"
+      },
+      {
+        "retailer": "La Maison du Whisky",
+        "retailer_type": "specialiste_online",
+        "price_eur": 36.9,
+        "url": "https://www.whisky.fr/whisky/distilleries/aberlour/aberlour-10-years.html"
+      },
+      {
+        "retailer": "Nicolas",
+        "retailer_type": "caviste",
+        "price_eur": 38.0,
+        "url": "https://www.nicolas.com/fr/search?q=aberlour+10"
+      }
+    ]
+  },
+  "Glenmorangie 10": {
+    "region": "Highlands",
+    "prix_min": 32.9,
+    "prix_max": 35.9,
+    "meilleur_prix": {
+      "retailer": "Carrefour",
+      "prix": 32.9,
+      "url": "https://www.carrefour.fr/p/whisky-single-malt-glenmorangie-10-ans"
+    },
+    "offres": [
+      {
+        "retailer": "Carrefour",
+        "retailer_type": "grande_distribution",
+        "price_eur": 32.9,
+        "url": "https://www.carrefour.fr/p/whisky-single-malt-glenmorangie-10-ans"
+      },
+      {
+        "retailer": "Leclerc",
+        "retailer_type": "grande_distribution",
+        "price_eur": 33.5,
+        "url": "https://www.e.leclerc/cat/whisky?search=glenmorangie+10"
+      },
+      {
+        "retailer": "Whisky.de",
+        "retailer_type": "specialiste_online",
+        "price_eur": 33.9,
+        "url": "https://www.whisky.de/shop/whisky/schottland/highland/glenmorangie-10-years-original.html"
+      },
+      {
+        "retailer": "Nicolas",
+        "retailer_type": "caviste",
+        "price_eur": 35.0,
+        "url": "https://www.nicolas.com/fr/search?q=glenmorangie+10"
+      },
+      {
+        "retailer": "La Maison du Whisky",
+        "retailer_type": "specialiste_online",
+        "price_eur": 35.9,
+        "url": "https://www.whisky.fr/whisky/distilleries/glenmorangie/glenmorangie-10-years-original.html"
+      }
+    ]
+  },
+  "Ardbeg 10": {
+    "region": "Islay",
+    "prix_min": 44.9,
+    "prix_max": 49.5,
+    "meilleur_prix": {
+      "retailer": "Carrefour",
+      "prix": 44.9,
+      "url": "https://www.carrefour.fr/p/whisky-single-malt-ardbeg-10-ans"
+    },
+    "offres": [
+      {
+        "retailer": "Carrefour",
+        "retailer_type": "grande_distribution",
+        "price_eur": 44.9,
+        "url": "https://www.carrefour.fr/p/whisky-single-malt-ardbeg-10-ans"
+      },
+      {
+        "retailer": "Nicolas",
+        "retailer_type": "caviste",
+        "price_eur": 46.0,
+        "url": "https://www.nicolas.com/fr/search?q=ardbeg+10"
+      },
+      {
+        "retailer": "Whisky.de",
+        "retailer_type": "specialiste_online",
+        "price_eur": 46.9,
+        "url": "https://www.whisky.de/shop/whisky/schottland/islay/ardbeg-10-years-old.html"
+      },
+      {
+        "retailer": "La Maison du Whisky",
+        "retailer_type": "specialiste_online",
+        "price_eur": 48.9,
+        "url": "https://www.whisky.fr/whisky/distilleries/ardbeg/ardbeg-10-years.html"
+      },
+      {
+        "retailer": "Master of Malt",
+        "retailer_type": "specialiste_online",
+        "price_eur": 49.5,
+        "url": "https://www.masterofmalt.com/whiskies/ardbeg/ardbeg-10-year-old-whisky/"
+      }
+    ]
+  },
+  "Laphroaig 10": {
+    "region": "Islay",
+    "prix_min": 38.9,
+    "prix_max": 44.9,
+    "meilleur_prix": {
+      "retailer": "Carrefour",
+      "prix": 38.9,
+      "url": "https://www.carrefour.fr/p/whisky-single-malt-laphroaig-10-ans"
+    },
+    "offres": [
+      {
+        "retailer": "Carrefour",
+        "retailer_type": "grande_distribution",
+        "price_eur": 38.9,
+        "url": "https://www.carrefour.fr/p/whisky-single-malt-laphroaig-10-ans"
+      },
+      {
+        "retailer": "Leclerc",
+        "retailer_type": "grande_distribution",
+        "price_eur": 40.0,
+        "url": "https://www.e.leclerc/cat/whisky?search=laphroaig+10"
+      },
+      {
+        "retailer": "Nicolas",
+        "retailer_type": "caviste",
+        "price_eur": 42.0,
+        "url": "https://www.nicolas.com/fr/search?q=laphroaig+10"
+      },
+      {
+        "retailer": "Whisky.de",
+        "retailer_type": "specialiste_online",
+        "price_eur": 42.9,
+        "url": "https://www.whisky.de/shop/whisky/schottland/islay/laphroaig-10-years-old.html"
+      },
+      {
+        "retailer": "La Maison du Whisky",
+        "retailer_type": "specialiste_online",
+        "price_eur": 44.9,
+        "url": "https://www.whisky.fr/whisky/distilleries/laphroaig/laphroaig-10-years.html"
+      }
+    ]
+  },
+  "Lagavulin 16": {
+    "region": "Islay",
+    "prix_min": 68.0,
+    "prix_max": 74.9,
+    "meilleur_prix": {
+      "retailer": "Carrefour",
+      "prix": 68.0,
+      "url": "https://www.carrefour.fr/p/whisky-single-malt-lagavulin-16-ans"
+    },
+    "offres": [
+      {
+        "retailer": "Carrefour",
+        "retailer_type": "grande_distribution",
+        "price_eur": 68.0,
+        "url": "https://www.carrefour.fr/p/whisky-single-malt-lagavulin-16-ans"
+      },
+      {
+        "retailer": "Nicolas",
+        "retailer_type": "caviste",
+        "price_eur": 70.0,
+        "url": "https://www.nicolas.com/fr/search?q=lagavulin+16"
+      },
+      {
+        "retailer": "Whisky.de",
+        "retailer_type": "specialiste_online",
+        "price_eur": 72.9,
+        "url": "https://www.whisky.de/shop/whisky/schottland/islay/lagavulin-16-years-old.html"
+      },
+      {
+        "retailer": "La Maison du Whisky",
+        "retailer_type": "specialiste_online",
+        "price_eur": 74.9,
+        "url": "https://www.whisky.fr/whisky/distilleries/lagavulin/lagavulin-16-years.html"
+      }
+    ]
+  },
+  "Talisker 10": {
+    "region": "Islands",
+    "prix_min": 40.0,
+    "prix_max": 46.9,
+    "meilleur_prix": {
+      "retailer": "Carrefour",
+      "prix": 40.0,
+      "url": "https://www.carrefour.fr/p/whisky-single-malt-talisker-10-ans"
+    },
+    "offres": [
+      {
+        "retailer": "Carrefour",
+        "retailer_type": "grande_distribution",
+        "price_eur": 40.0,
+        "url": "https://www.carrefour.fr/p/whisky-single-malt-talisker-10-ans"
+      },
+      {
+        "retailer": "Leclerc",
+        "retailer_type": "grande_distribution",
+        "price_eur": 41.9,
+        "url": "https://www.e.leclerc/cat/whisky?search=talisker+10"
+      },
+      {
+        "retailer": "Nicolas",
+        "retailer_type": "caviste",
+        "price_eur": 44.0,
+        "url": "https://www.nicolas.com/fr/search?q=talisker+10"
+      },
+      {
+        "retailer": "Whisky.de",
+        "retailer_type": "specialiste_online",
+        "price_eur": 44.9,
+        "url": "https://www.whisky.de/shop/whisky/schottland/islands/talisker-10-years-old.html"
+      },
+      {
+        "retailer": "La Maison du Whisky",
+        "retailer_type": "specialiste_online",
+        "price_eur": 46.9,
+        "url": "https://www.whisky.fr/whisky/distilleries/talisker/talisker-10-years.html"
+      }
+    ]
+  },
+  "Highland Park 12": {
+    "region": "Islands",
+    "prix_min": 40.0,
+    "prix_max": 44.9,
+    "meilleur_prix": {
+      "retailer": "Carrefour",
+      "prix": 40.0,
+      "url": "https://www.carrefour.fr/p/whisky-highland-park-12-ans"
+    },
+    "offres": [
+      {
+        "retailer": "Carrefour",
+        "retailer_type": "grande_distribution",
+        "price_eur": 40.0,
+        "url": "https://www.carrefour.fr/p/whisky-highland-park-12-ans"
+      },
+      {
+        "retailer": "Nicolas",
+        "retailer_type": "caviste",
+        "price_eur": 42.0,
+        "url": "https://www.nicolas.com/fr/search?q=highland+park+12"
+      },
+      {
+        "retailer": "Whisky.de",
+        "retailer_type": "specialiste_online",
+        "price_eur": 42.9,
+        "url": "https://www.whisky.de/shop/whisky/schottland/islands/highland-park-12-years-viking-honour.html"
+      },
+      {
+        "retailer": "La Maison du Whisky",
+        "retailer_type": "specialiste_online",
+        "price_eur": 44.9,
+        "url": "https://www.whisky.fr/whisky/distilleries/highland-park/highland-park-12-years-viking-honour.html"
+      }
+    ]
+  },
+  "Bowmore 12": {
+    "region": "Islay",
+    "prix_min": 40.0,
+    "prix_max": 44.9,
+    "meilleur_prix": {
+      "retailer": "Carrefour",
+      "prix": 40.0,
+      "url": "https://www.carrefour.fr/p/whisky-single-malt-bowmore-12-ans"
+    },
+    "offres": [
+      {
+        "retailer": "Carrefour",
+        "retailer_type": "grande_distribution",
+        "price_eur": 40.0,
+        "url": "https://www.carrefour.fr/p/whisky-single-malt-bowmore-12-ans"
+      },
+      {
+        "retailer": "Nicolas",
+        "retailer_type": "caviste",
+        "price_eur": 42.0,
+        "url": "https://www.nicolas.com/fr/search?q=bowmore+12"
+      },
+      {
+        "retailer": "La Maison du Whisky",
+        "retailer_type": "specialiste_online",
+        "price_eur": 44.9,
+        "url": "https://www.whisky.fr/whisky/distilleries/bowmore/bowmore-12-years.html"
+      }
+    ]
+  },
+  "Caol Ila 12": {
+    "region": "Islay",
+    "prix_min": 44.0,
+    "prix_max": 47.9,
+    "meilleur_prix": {
+      "retailer": "Nicolas",
+      "prix": 44.0,
+      "url": "https://www.nicolas.com/fr/search?q=caol+ila+12"
+    },
+    "offres": [
+      {
+        "retailer": "Nicolas",
+        "retailer_type": "caviste",
+        "price_eur": 44.0,
+        "url": "https://www.nicolas.com/fr/search?q=caol+ila+12"
+      },
+      {
+        "retailer": "Whisky.de",
+        "retailer_type": "specialiste_online",
+        "price_eur": 45.9,
+        "url": "https://www.whisky.de/shop/whisky/schottland/islay/caol-ila-12-years-old.html"
+      },
+      {
+        "retailer": "La Maison du Whisky",
+        "retailer_type": "specialiste_online",
+        "price_eur": 47.9,
+        "url": "https://www.whisky.fr/whisky/distilleries/caol-ila/caol-ila-12-years.html"
+      }
+    ]
+  },
+  "Springbank 10": {
+    "region": "Campbeltown",
+    "prix_min": 57.9,
+    "prix_max": 62.0,
+    "meilleur_prix": {
+      "retailer": "La Maison du Whisky",
+      "prix": 57.9,
+      "url": "https://www.whisky.fr/whisky/distilleries/springbank/springbank-10-years.html"
+    },
+    "offres": [
+      {
+        "retailer": "La Maison du Whisky",
+        "retailer_type": "specialiste_online",
+        "price_eur": 57.9,
+        "url": "https://www.whisky.fr/whisky/distilleries/springbank/springbank-10-years.html"
+      },
+      {
+        "retailer": "Master of Malt",
+        "retailer_type": "specialiste_online",
+        "price_eur": 58.5,
+        "url": "https://www.masterofmalt.com/whiskies/springbank/springbank-10-year-old-whisky/"
+      },
+      {
+        "retailer": "La Part des Anges",
+        "retailer_type": "caviste",
+        "price_eur": 62.0,
+        "url": "https://www.lapartdesanges.com/recherche?s=springbank+10"
+      }
+    ]
+  },
+  "Dalmore 12": {
+    "region": "Highlands",
+    "prix_min": 44.9,
+    "prix_max": 49.9,
+    "meilleur_prix": {
+      "retailer": "Carrefour",
+      "prix": 44.9,
+      "url": "https://www.carrefour.fr/p/whisky-single-malt-dalmore-12-ans"
+    },
+    "offres": [
+      {
+        "retailer": "Carrefour",
+        "retailer_type": "grande_distribution",
+        "price_eur": 44.9,
+        "url": "https://www.carrefour.fr/p/whisky-single-malt-dalmore-12-ans"
+      },
+      {
+        "retailer": "Nicolas",
+        "retailer_type": "caviste",
+        "price_eur": 46.0,
+        "url": "https://www.nicolas.com/fr/search?q=dalmore+12"
+      },
+      {
+        "retailer": "La Maison du Whisky",
+        "retailer_type": "specialiste_online",
+        "price_eur": 49.9,
+        "url": "https://www.whisky.fr/whisky/distilleries/the-dalmore/the-dalmore-12-years.html"
+      }
+    ]
+  },
+  "Auchentoshan 12": {
+    "region": "Lowlands",
+    "prix_min": 35.0,
+    "prix_max": 39.9,
+    "meilleur_prix": {
+      "retailer": "Carrefour",
+      "prix": 35.0,
+      "url": "https://www.carrefour.fr/p/whisky-single-malt-auchentoshan-12-ans"
+    },
+    "offres": [
+      {
+        "retailer": "Carrefour",
+        "retailer_type": "grande_distribution",
+        "price_eur": 35.0,
+        "url": "https://www.carrefour.fr/p/whisky-single-malt-auchentoshan-12-ans"
+      },
+      {
+        "retailer": "Nicolas",
+        "retailer_type": "caviste",
+        "price_eur": 36.9,
+        "url": "https://www.nicolas.com/fr/search?q=auchentoshan+12"
+      },
+      {
+        "retailer": "La Maison du Whisky",
+        "retailer_type": "specialiste_online",
+        "price_eur": 39.9,
+        "url": "https://www.whisky.fr/whisky/distilleries/auchentoshan/auchentoshan-12-years.html"
+      }
+    ]
+  },
+  "Glenfarclas 10": {
+    "region": "Speyside",
+    "prix_min": 36.9,
+    "prix_max": 42.0,
+    "meilleur_prix": {
+      "retailer": "Whisky.de",
+      "prix": 36.9,
+      "url": "https://www.whisky.de/shop/whisky/schottland/speyside/glenfarclas-10-years-old.html"
+    },
+    "offres": [
+      {
+        "retailer": "Whisky.de",
+        "retailer_type": "specialiste_online",
+        "price_eur": 36.9,
+        "url": "https://www.whisky.de/shop/whisky/schottland/speyside/glenfarclas-10-years-old.html"
+      },
+      {
+        "retailer": "La Maison du Whisky",
+        "retailer_type": "specialiste_online",
+        "price_eur": 38.9,
+        "url": "https://www.whisky.fr/whisky/distilleries/glenfarclas/glenfarclas-10-years.html"
+      },
+      {
+        "retailer": "La Part des Anges",
+        "retailer_type": "caviste",
+        "price_eur": 42.0,
+        "url": "https://www.lapartdesanges.com/recherche?s=glenfarclas+10"
+      }
+    ]
+  },
+  "Glen Grant 10": {
+    "region": "Speyside",
+    "prix_min": 28.9,
+    "prix_max": 32.9,
+    "meilleur_prix": {
+      "retailer": "Carrefour",
+      "prix": 28.9,
+      "url": "https://www.carrefour.fr/p/whisky-single-malt-glen-grant-10-ans"
+    },
+    "offres": [
+      {
+        "retailer": "Carrefour",
+        "retailer_type": "grande_distribution",
+        "price_eur": 28.9,
+        "url": "https://www.carrefour.fr/p/whisky-single-malt-glen-grant-10-ans"
+      },
+      {
+        "retailer": "Leclerc",
+        "retailer_type": "grande_distribution",
+        "price_eur": 29.9,
+        "url": "https://www.e.leclerc/cat/whisky?search=glen+grant+10"
+      },
+      {
+        "retailer": "La Maison du Whisky",
+        "retailer_type": "specialiste_online",
+        "price_eur": 32.9,
+        "url": "https://www.whisky.fr/whisky/distilleries/glen-grant/glen-grant-10-years.html"
+      }
+    ]
+  },
+  "Speyburn 10": {
+    "region": "Speyside",
+    "prix_min": 25.9,
+    "prix_max": 27.9,
+    "meilleur_prix": {
+      "retailer": "Leclerc",
+      "prix": 25.9,
+      "url": "https://www.e.leclerc/cat/whisky?search=speyburn+10"
+    },
+    "offres": [
+      {
+        "retailer": "Leclerc",
+        "retailer_type": "grande_distribution",
+        "price_eur": 25.9,
+        "url": "https://www.e.leclerc/cat/whisky?search=speyburn+10"
+      },
+      {
+        "retailer": "Carrefour",
+        "retailer_type": "grande_distribution",
+        "price_eur": 26.5,
+        "url": "https://www.carrefour.fr/p/whisky-single-malt-speyburn-10-ans"
+      },
+      {
+        "retailer": "La Maison du Whisky",
+        "retailer_type": "specialiste_online",
+        "price_eur": 27.9,
+        "url": "https://www.whisky.fr/whisky/distilleries/speyburn/speyburn-10-years.html"
+      }
+    ]
+  },
+  "Glen Moray 10": {
+    "region": "Speyside",
+    "prix_min": 25.9,
+    "prix_max": 29.9,
+    "meilleur_prix": {
+      "retailer": "Leclerc",
+      "prix": 25.9,
+      "url": "https://www.e.leclerc/cat/whisky?search=glen+moray"
+    },
+    "offres": [
+      {
+        "retailer": "Leclerc",
+        "retailer_type": "grande_distribution",
+        "price_eur": 25.9,
+        "url": "https://www.e.leclerc/cat/whisky?search=glen+moray"
+      },
+      {
+        "retailer": "Carrefour",
+        "retailer_type": "grande_distribution",
+        "price_eur": 27.0,
+        "url": "https://www.carrefour.fr/p/whisky-single-malt-glen-moray"
+      },
+      {
+        "retailer": "La Maison du Whisky",
+        "retailer_type": "specialiste_online",
+        "price_eur": 29.9,
+        "url": "https://www.whisky.fr/whisky/distilleries/glen-moray/glen-moray-10-years.html"
+      }
+    ]
+  },
+  "Bruichladdich Classic Laddie": {
+    "region": "Islay",
+    "prix_min": 40.0,
+    "prix_max": 44.5,
+    "meilleur_prix": {
+      "retailer": "Nicolas",
+      "prix": 40.0,
+      "url": "https://www.nicolas.com/fr/search?q=bruichladdich+classic"
+    },
+    "offres": [
+      {
+        "retailer": "Nicolas",
+        "retailer_type": "caviste",
+        "price_eur": 40.0,
+        "url": "https://www.nicolas.com/fr/search?q=bruichladdich+classic"
+      },
+      {
+        "retailer": "La Maison du Whisky",
+        "retailer_type": "specialiste_online",
+        "price_eur": 43.9,
+        "url": "https://www.whisky.fr/whisky/distilleries/bruichladdich/bruichladdich-the-classic-laddie.html"
+      },
+      {
+        "retailer": "Master of Malt",
+        "retailer_type": "specialiste_online",
+        "price_eur": 44.5,
+        "url": "https://www.masterofmalt.com/whiskies/bruichladdich/bruichladdich-the-classic-laddie-whisky/"
+      }
+    ]
+  },
+  "Kilkerran 12": {
+    "region": "Campbeltown",
+    "prix_min": 52.9,
+    "prix_max": 55.0,
+    "meilleur_prix": {
+      "retailer": "La Maison du Whisky",
+      "prix": 52.9,
+      "url": "https://www.whisky.fr/whisky/distilleries/glengyle/kilkerran-12-years.html"
+    },
+    "offres": [
+      {
+        "retailer": "La Maison du Whisky",
+        "retailer_type": "specialiste_online",
+        "price_eur": 52.9,
+        "url": "https://www.whisky.fr/whisky/distilleries/glengyle/kilkerran-12-years.html"
+      },
+      {
+        "retailer": "Master of Malt",
+        "retailer_type": "specialiste_online",
+        "price_eur": 53.0,
+        "url": "https://www.masterofmalt.com/whiskies/glengyle/kilkerran-12-year-old-whisky/"
+      },
+      {
+        "retailer": "La Part des Anges",
+        "retailer_type": "caviste",
+        "price_eur": 55.0,
+        "url": "https://www.lapartdesanges.com/recherche?s=kilkerran+12"
+      }
+    ]
+  }
+}
