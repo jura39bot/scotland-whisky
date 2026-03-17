@@ -202,4 +202,25 @@ Old Pulteney 12, Clynelish 14, Talisker 10, Oban 14, Springbank 10, Bunnahabhain
 
 ---
 
+## 🗺️ Carte des distilleries
+
+![Carte des distilleries écossaises](maps/scotland_distilleries_map.png)
+
+---
+
+## 📊 Graphiques de prix
+
+| Graphique | Description |
+|-----------|-------------|
+| ![](charts/01_prix_par_region.png) | Distribution des prix par région |
+| ![](charts/02_prix_par_distributeur.png) | Comparaison caviste vs GD vs online |
+| ![](charts/03_evolution_prix_2020_2025.png) | Évolution des prix 2020–2025 |
+| ![](charts/04_top_qualite_prix.png) | Top 20 rapport qualité/prix |
+| ![](charts/05_heatmap_region_distributeur.png) | Heatmap prix × région × distributeur |
+| ![](charts/06_echelle_prix_complete.png) | Échelle complète du moins au plus cher |
+
+➡️ Voir aussi **[PRIX.md](PRIX.md)** pour le tableau détaillé par distributeur.
+
+---
+
 *Dernière mise à jour : mars 2026*
