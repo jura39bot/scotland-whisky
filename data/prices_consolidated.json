@@ -1,0 +1,1401 @@
+{
+  "prices": [
+    {
+      "whisky": "Glenfiddich 12",
+      "region": "Speyside",
+      "age": 12,
+      "price_eur": 29.9,
+      "retailer": "Carrefour",
+      "retailer_type": "grande_distribution"
+    },
+    {
+      "whisky": "Glenfiddich 12",
+      "region": "Speyside",
+      "age": 12,
+      "price_eur": 30.5,
+      "retailer": "Leclerc",
+      "retailer_type": "grande_distribution"
+    },
+    {
+      "whisky": "Glenfiddich 12",
+      "region": "Speyside",
+      "age": 12,
+      "price_eur": 32.9,
+      "retailer": "Nicolas",
+      "retailer_type": "caviste"
+    },
+    {
+      "whisky": "Glenfiddich 12",
+      "region": "Speyside",
+      "age": 12,
+      "price_eur": 34.5,
+      "retailer": "La Maison du Whisky",
+      "retailer_type": "specialiste_online"
+    },
+    {
+      "whisky": "Glenfiddich 12",
+      "region": "Speyside",
+      "age": 12,
+      "price_eur": 33.9,
+      "retailer": "Whisky.fr",
+      "retailer_type": "specialiste_online"
+    },
+    {
+      "whisky": "Glenfiddich 12",
+      "region": "Speyside",
+      "age": 12,
+      "price_eur": 35.0,
+      "retailer": "La Part des Anges",
+      "retailer_type": "caviste"
+    },
+    {
+      "whisky": "Macallan 12 Double Cask",
+      "region": "Speyside",
+      "age": 12,
+      "price_eur": 49.9,
+      "retailer": "Carrefour",
+      "retailer_type": "grande_distribution"
+    },
+    {
+      "whisky": "Macallan 12 Double Cask",
+      "region": "Speyside",
+      "age": 12,
+      "price_eur": 52.0,
+      "retailer": "Nicolas",
+      "retailer_type": "caviste"
+    },
+    {
+      "whisky": "Macallan 12 Double Cask",
+      "region": "Speyside",
+      "age": 12,
+      "price_eur": 54.9,
+      "retailer": "La Maison du Whisky",
+      "retailer_type": "specialiste_online"
+    },
+    {
+      "whisky": "Macallan 12 Double Cask",
+      "region": "Speyside",
+      "age": 12,
+      "price_eur": 55.0,
+      "retailer": "Whisky.fr",
+      "retailer_type": "specialiste_online"
+    },
+    {
+      "whisky": "Macallan 12 Sherry Oak",
+      "region": "Speyside",
+      "age": 12,
+      "price_eur": 65.0,
+      "retailer": "Nicolas",
+      "retailer_type": "caviste"
+    },
+    {
+      "whisky": "Macallan 12 Sherry Oak",
+      "region": "Speyside",
+      "age": 12,
+      "price_eur": 68.9,
+      "retailer": "La Maison du Whisky",
+      "retailer_type": "specialiste_online"
+    },
+    {
+      "whisky": "Macallan 12 Sherry Oak",
+      "region": "Speyside",
+      "age": 12,
+      "price_eur": 70.0,
+      "retailer": "Whisky Live",
+      "retailer_type": "specialiste_online"
+    },
+    {
+      "whisky": "The Glenlivet 12",
+      "region": "Speyside",
+      "age": 12,
+      "price_eur": 28.9,
+      "retailer": "Leclerc",
+      "retailer_type": "grande_distribution"
+    },
+    {
+      "whisky": "The Glenlivet 12",
+      "region": "Speyside",
+      "age": 12,
+      "price_eur": 30.0,
+      "retailer": "Auchan",
+      "retailer_type": "grande_distribution"
+    },
+    {
+      "whisky": "The Glenlivet 12",
+      "region": "Speyside",
+      "age": 12,
+      "price_eur": 33.0,
+      "retailer": "La Maison du Whisky",
+      "retailer_type": "specialiste_online"
+    },
+    {
+      "whisky": "The Glenlivet 12",
+      "region": "Speyside",
+      "age": 12,
+      "price_eur": 34.5,
+      "retailer": "Whisky.fr",
+      "retailer_type": "specialiste_online"
+    },
+    {
+      "whisky": "Aberlour 10",
+      "region": "Speyside",
+      "age": 10,
+      "price_eur": 36.9,
+      "retailer": "La Maison du Whisky",
+      "retailer_type": "specialiste_online"
+    },
+    {
+      "whisky": "Aberlour 10",
+      "region": "Speyside",
+      "age": 10,
+      "price_eur": 38.0,
+      "retailer": "Whisky.fr",
+      "retailer_type": "specialiste_online"
+    },
+    {
+      "whisky": "Aberlour 10",
+      "region": "Speyside",
+      "age": 10,
+      "price_eur": 35.9,
+      "retailer": "Leclerc",
+      "retailer_type": "grande_distribution"
+    },
+    {
+      "whisky": "Aberlour 10",
+      "region": "Speyside",
+      "age": 10,
+      "price_eur": 40.0,
+      "retailer": "Distilleries & Cie",
+      "retailer_type": "caviste"
+    },
+    {
+      "whisky": "Balvenie 12 DoubleWood",
+      "region": "Speyside",
+      "age": 12,
+      "price_eur": 52.0,
+      "retailer": "Nicolas",
+      "retailer_type": "caviste"
+    },
+    {
+      "whisky": "Balvenie 12 DoubleWood",
+      "region": "Speyside",
+      "age": 12,
+      "price_eur": 54.9,
+      "retailer": "La Maison du Whisky",
+      "retailer_type": "specialiste_online"
+    },
+    {
+      "whisky": "Balvenie 12 DoubleWood",
+      "region": "Speyside",
+      "age": 12,
+      "price_eur": 56.0,
+      "retailer": "Whisky.fr",
+      "retailer_type": "specialiste_online"
+    },
+    {
+      "whisky": "Balvenie 12 DoubleWood",
+      "region": "Speyside",
+      "age": 12,
+      "price_eur": 58.0,
+      "retailer": "La Part des Anges",
+      "retailer_type": "caviste"
+    },
+    {
+      "whisky": "Glenfarclas 10",
+      "region": "Speyside",
+      "age": 10,
+      "price_eur": 38.0,
+      "retailer": "La Maison du Whisky",
+      "retailer_type": "specialiste_online"
+    },
+    {
+      "whisky": "Glenfarclas 10",
+      "region": "Speyside",
+      "age": 10,
+      "price_eur": 39.9,
+      "retailer": "Whisky.fr",
+      "retailer_type": "specialiste_online"
+    },
+    {
+      "whisky": "Glenfarclas 10",
+      "region": "Speyside",
+      "age": 10,
+      "price_eur": 42.0,
+      "retailer": "Distilleries & Cie",
+      "retailer_type": "caviste"
+    },
+    {
+      "whisky": "Tamdhu 10",
+      "region": "Speyside",
+      "age": 10,
+      "price_eur": 42.0,
+      "retailer": "La Maison du Whisky",
+      "retailer_type": "specialiste_online"
+    },
+    {
+      "whisky": "Tamdhu 10",
+      "region": "Speyside",
+      "age": 10,
+      "price_eur": 44.9,
+      "retailer": "Whisky.fr",
+      "retailer_type": "specialiste_online"
+    },
+    {
+      "whisky": "Tamdhu 10",
+      "region": "Speyside",
+      "age": 10,
+      "price_eur": 46.0,
+      "retailer": "La Part des Anges",
+      "retailer_type": "caviste"
+    },
+    {
+      "whisky": "Cragganmore 12",
+      "region": "Speyside",
+      "age": 12,
+      "price_eur": 46.0,
+      "retailer": "Nicolas",
+      "retailer_type": "caviste"
+    },
+    {
+      "whisky": "Cragganmore 12",
+      "region": "Speyside",
+      "age": 12,
+      "price_eur": 48.9,
+      "retailer": "La Maison du Whisky",
+      "retailer_type": "specialiste_online"
+    },
+    {
+      "whisky": "Speyburn 10",
+      "region": "Speyside",
+      "age": 10,
+      "price_eur": 25.9,
+      "retailer": "Leclerc",
+      "retailer_type": "grande_distribution"
+    },
+    {
+      "whisky": "Speyburn 10",
+      "region": "Speyside",
+      "age": 10,
+      "price_eur": 27.9,
+      "retailer": "La Maison du Whisky",
+      "retailer_type": "specialiste_online"
+    },
+    {
+      "whisky": "Speyburn 10",
+      "region": "Speyside",
+      "age": 10,
+      "price_eur": 28.5,
+      "retailer": "Whisky.fr",
+      "retailer_type": "specialiste_online"
+    },
+    {
+      "whisky": "Glen Grant 10",
+      "region": "Speyside",
+      "age": 10,
+      "price_eur": 28.9,
+      "retailer": "Carrefour",
+      "retailer_type": "grande_distribution"
+    },
+    {
+      "whisky": "Glen Grant 10",
+      "region": "Speyside",
+      "age": 10,
+      "price_eur": 29.9,
+      "retailer": "Auchan",
+      "retailer_type": "grande_distribution"
+    },
+    {
+      "whisky": "Glen Grant 10",
+      "region": "Speyside",
+      "age": 10,
+      "price_eur": 32.0,
+      "retailer": "La Maison du Whisky",
+      "retailer_type": "specialiste_online"
+    },
+    {
+      "whisky": "Glen Moray 10",
+      "region": "Speyside",
+      "age": 10,
+      "price_eur": 25.9,
+      "retailer": "Leclerc",
+      "retailer_type": "grande_distribution"
+    },
+    {
+      "whisky": "Glen Moray 10",
+      "region": "Speyside",
+      "age": 10,
+      "price_eur": 27.0,
+      "retailer": "Carrefour",
+      "retailer_type": "grande_distribution"
+    },
+    {
+      "whisky": "Glen Moray 10",
+      "region": "Speyside",
+      "age": 10,
+      "price_eur": 29.9,
+      "retailer": "La Maison du Whisky",
+      "retailer_type": "specialiste_online"
+    },
+    {
+      "whisky": "Mortlach 12",
+      "region": "Speyside",
+      "age": 12,
+      "price_eur": 60.0,
+      "retailer": "La Maison du Whisky",
+      "retailer_type": "specialiste_online"
+    },
+    {
+      "whisky": "Mortlach 12",
+      "region": "Speyside",
+      "age": 12,
+      "price_eur": 62.9,
+      "retailer": "Whisky.fr",
+      "retailer_type": "specialiste_online"
+    },
+    {
+      "whisky": "Mortlach 12",
+      "region": "Speyside",
+      "age": 12,
+      "price_eur": 65.0,
+      "retailer": "La Part des Anges",
+      "retailer_type": "caviste"
+    },
+    {
+      "whisky": "Tomintoul 10",
+      "region": "Speyside",
+      "age": 10,
+      "price_eur": 32.9,
+      "retailer": "La Maison du Whisky",
+      "retailer_type": "specialiste_online"
+    },
+    {
+      "whisky": "Tomintoul 10",
+      "region": "Speyside",
+      "age": 10,
+      "price_eur": 34.0,
+      "retailer": "Whisky.fr",
+      "retailer_type": "specialiste_online"
+    },
+    {
+      "whisky": "Cardhu 12",
+      "region": "Speyside",
+      "age": 12,
+      "price_eur": 36.9,
+      "retailer": "Carrefour",
+      "retailer_type": "grande_distribution"
+    },
+    {
+      "whisky": "Cardhu 12",
+      "region": "Speyside",
+      "age": 12,
+      "price_eur": 38.0,
+      "retailer": "Nicolas",
+      "retailer_type": "caviste"
+    },
+    {
+      "whisky": "Cardhu 12",
+      "region": "Speyside",
+      "age": 12,
+      "price_eur": 39.9,
+      "retailer": "La Maison du Whisky",
+      "retailer_type": "specialiste_online"
+    },
+    {
+      "whisky": "Glenmorangie 10",
+      "region": "Highlands",
+      "age": 10,
+      "price_eur": 32.9,
+      "retailer": "Carrefour",
+      "retailer_type": "grande_distribution"
+    },
+    {
+      "whisky": "Glenmorangie 10",
+      "region": "Highlands",
+      "age": 10,
+      "price_eur": 33.5,
+      "retailer": "Leclerc",
+      "retailer_type": "grande_distribution"
+    },
+    {
+      "whisky": "Glenmorangie 10",
+      "region": "Highlands",
+      "age": 10,
+      "price_eur": 35.0,
+      "retailer": "Nicolas",
+      "retailer_type": "caviste"
+    },
+    {
+      "whisky": "Glenmorangie 10",
+      "region": "Highlands",
+      "age": 10,
+      "price_eur": 36.9,
+      "retailer": "La Maison du Whisky",
+      "retailer_type": "specialiste_online"
+    },
+    {
+      "whisky": "Glenmorangie 10",
+      "region": "Highlands",
+      "age": 10,
+      "price_eur": 37.5,
+      "retailer": "Whisky.fr",
+      "retailer_type": "specialiste_online"
+    },
+    {
+      "whisky": "Dalmore 12",
+      "region": "Highlands",
+      "age": 12,
+      "price_eur": 44.9,
+      "retailer": "Carrefour",
+      "retailer_type": "grande_distribution"
+    },
+    {
+      "whisky": "Dalmore 12",
+      "region": "Highlands",
+      "age": 12,
+      "price_eur": 46.0,
+      "retailer": "Nicolas",
+      "retailer_type": "caviste"
+    },
+    {
+      "whisky": "Dalmore 12",
+      "region": "Highlands",
+      "age": 12,
+      "price_eur": 49.9,
+      "retailer": "La Maison du Whisky",
+      "retailer_type": "specialiste_online"
+    },
+    {
+      "whisky": "Dalmore 12",
+      "region": "Highlands",
+      "age": 12,
+      "price_eur": 50.0,
+      "retailer": "Whisky.fr",
+      "retailer_type": "specialiste_online"
+    },
+    {
+      "whisky": "Oban 14",
+      "region": "Highlands",
+      "age": 14,
+      "price_eur": 58.0,
+      "retailer": "Nicolas",
+      "retailer_type": "caviste"
+    },
+    {
+      "whisky": "Oban 14",
+      "region": "Highlands",
+      "age": 14,
+      "price_eur": 62.9,
+      "retailer": "La Maison du Whisky",
+      "retailer_type": "specialiste_online"
+    },
+    {
+      "whisky": "Oban 14",
+      "region": "Highlands",
+      "age": 14,
+      "price_eur": 64.0,
+      "retailer": "Whisky.fr",
+      "retailer_type": "specialiste_online"
+    },
+    {
+      "whisky": "Old Pulteney 12",
+      "region": "Highlands",
+      "age": 12,
+      "price_eur": 36.0,
+      "retailer": "La Maison du Whisky",
+      "retailer_type": "specialiste_online"
+    },
+    {
+      "whisky": "Old Pulteney 12",
+      "region": "Highlands",
+      "age": 12,
+      "price_eur": 38.9,
+      "retailer": "Whisky.fr",
+      "retailer_type": "specialiste_online"
+    },
+    {
+      "whisky": "Old Pulteney 12",
+      "region": "Highlands",
+      "age": 12,
+      "price_eur": 40.0,
+      "retailer": "Distilleries & Cie",
+      "retailer_type": "caviste"
+    },
+    {
+      "whisky": "Clynelish 14",
+      "region": "Highlands",
+      "age": 14,
+      "price_eur": 50.0,
+      "retailer": "La Maison du Whisky",
+      "retailer_type": "specialiste_online"
+    },
+    {
+      "whisky": "Clynelish 14",
+      "region": "Highlands",
+      "age": 14,
+      "price_eur": 52.9,
+      "retailer": "Whisky.fr",
+      "retailer_type": "specialiste_online"
+    },
+    {
+      "whisky": "Clynelish 14",
+      "region": "Highlands",
+      "age": 14,
+      "price_eur": 54.0,
+      "retailer": "La Part des Anges",
+      "retailer_type": "caviste"
+    },
+    {
+      "whisky": "GlenDronach 12",
+      "region": "Highlands",
+      "age": 12,
+      "price_eur": 50.0,
+      "retailer": "La Maison du Whisky",
+      "retailer_type": "specialiste_online"
+    },
+    {
+      "whisky": "GlenDronach 12",
+      "region": "Highlands",
+      "age": 12,
+      "price_eur": 52.0,
+      "retailer": "Whisky.fr",
+      "retailer_type": "specialiste_online"
+    },
+    {
+      "whisky": "GlenDronach 12",
+      "region": "Highlands",
+      "age": 12,
+      "price_eur": 54.0,
+      "retailer": "Distilleries & Cie",
+      "retailer_type": "caviste"
+    },
+    {
+      "whisky": "Aberfeldy 12",
+      "region": "Highlands",
+      "age": 12,
+      "price_eur": 42.0,
+      "retailer": "La Maison du Whisky",
+      "retailer_type": "specialiste_online"
+    },
+    {
+      "whisky": "Aberfeldy 12",
+      "region": "Highlands",
+      "age": 12,
+      "price_eur": 44.9,
+      "retailer": "Whisky.fr",
+      "retailer_type": "specialiste_online"
+    },
+    {
+      "whisky": "Dalwhinnie 15",
+      "region": "Highlands",
+      "age": 15,
+      "price_eur": 50.0,
+      "retailer": "Carrefour",
+      "retailer_type": "grande_distribution"
+    },
+    {
+      "whisky": "Dalwhinnie 15",
+      "region": "Highlands",
+      "age": 15,
+      "price_eur": 52.0,
+      "retailer": "Nicolas",
+      "retailer_type": "caviste"
+    },
+    {
+      "whisky": "Dalwhinnie 15",
+      "region": "Highlands",
+      "age": 15,
+      "price_eur": 54.9,
+      "retailer": "La Maison du Whisky",
+      "retailer_type": "specialiste_online"
+    },
+    {
+      "whisky": "Deanston 12",
+      "region": "Highlands",
+      "age": 12,
+      "price_eur": 38.0,
+      "retailer": "La Maison du Whisky",
+      "retailer_type": "specialiste_online"
+    },
+    {
+      "whisky": "Deanston 12",
+      "region": "Highlands",
+      "age": 12,
+      "price_eur": 39.9,
+      "retailer": "Whisky.fr",
+      "retailer_type": "specialiste_online"
+    },
+    {
+      "whisky": "Tomatin 12",
+      "region": "Highlands",
+      "age": 12,
+      "price_eur": 34.9,
+      "retailer": "La Maison du Whisky",
+      "retailer_type": "specialiste_online"
+    },
+    {
+      "whisky": "Tomatin 12",
+      "region": "Highlands",
+      "age": 12,
+      "price_eur": 36.0,
+      "retailer": "Whisky.fr",
+      "retailer_type": "specialiste_online"
+    },
+    {
+      "whisky": "Glengoyne 12",
+      "region": "Highlands",
+      "age": 12,
+      "price_eur": 46.0,
+      "retailer": "La Maison du Whisky",
+      "retailer_type": "specialiste_online"
+    },
+    {
+      "whisky": "Glengoyne 12",
+      "region": "Highlands",
+      "age": 12,
+      "price_eur": 48.0,
+      "retailer": "Whisky.fr",
+      "retailer_type": "specialiste_online"
+    },
+    {
+      "whisky": "Glengoyne 12",
+      "region": "Highlands",
+      "age": 12,
+      "price_eur": 50.0,
+      "retailer": "La Part des Anges",
+      "retailer_type": "caviste"
+    },
+    {
+      "whisky": "Ardmore Traditional Cask",
+      "region": "Highlands",
+      "age": 10,
+      "price_eur": 30.0,
+      "retailer": "La Maison du Whisky",
+      "retailer_type": "specialiste_online"
+    },
+    {
+      "whisky": "Ardmore Traditional Cask",
+      "region": "Highlands",
+      "age": 10,
+      "price_eur": 32.0,
+      "retailer": "Whisky.fr",
+      "retailer_type": "specialiste_online"
+    },
+    {
+      "whisky": "Glencadam 10",
+      "region": "Highlands",
+      "age": 10,
+      "price_eur": 36.0,
+      "retailer": "La Maison du Whisky",
+      "retailer_type": "specialiste_online"
+    },
+    {
+      "whisky": "Glencadam 10",
+      "region": "Highlands",
+      "age": 10,
+      "price_eur": 38.0,
+      "retailer": "Whisky.fr",
+      "retailer_type": "specialiste_online"
+    },
+    {
+      "whisky": "Ardbeg 10",
+      "region": "Islay",
+      "age": 10,
+      "price_eur": 44.9,
+      "retailer": "Carrefour",
+      "retailer_type": "grande_distribution"
+    },
+    {
+      "whisky": "Ardbeg 10",
+      "region": "Islay",
+      "age": 10,
+      "price_eur": 46.0,
+      "retailer": "Nicolas",
+      "retailer_type": "caviste"
+    },
+    {
+      "whisky": "Ardbeg 10",
+      "region": "Islay",
+      "age": 10,
+      "price_eur": 48.9,
+      "retailer": "La Maison du Whisky",
+      "retailer_type": "specialiste_online"
+    },
+    {
+      "whisky": "Ardbeg 10",
+      "region": "Islay",
+      "age": 10,
+      "price_eur": 49.9,
+      "retailer": "Whisky.fr",
+      "retailer_type": "specialiste_online"
+    },
+    {
+      "whisky": "Ardbeg 10",
+      "region": "Islay",
+      "age": 10,
+      "price_eur": 50.0,
+      "retailer": "Distilleries & Cie",
+      "retailer_type": "caviste"
+    },
+    {
+      "whisky": "Ardbeg Uigeadail",
+      "region": "Islay",
+      "age": 12,
+      "price_eur": 60.0,
+      "retailer": "Nicolas",
+      "retailer_type": "caviste"
+    },
+    {
+      "whisky": "Ardbeg Uigeadail",
+      "region": "Islay",
+      "age": 12,
+      "price_eur": 63.9,
+      "retailer": "La Maison du Whisky",
+      "retailer_type": "specialiste_online"
+    },
+    {
+      "whisky": "Ardbeg Uigeadail",
+      "region": "Islay",
+      "age": 12,
+      "price_eur": 65.0,
+      "retailer": "Whisky.fr",
+      "retailer_type": "specialiste_online"
+    },
+    {
+      "whisky": "Lagavulin 16",
+      "region": "Islay",
+      "age": 16,
+      "price_eur": 68.0,
+      "retailer": "Carrefour",
+      "retailer_type": "grande_distribution"
+    },
+    {
+      "whisky": "Lagavulin 16",
+      "region": "Islay",
+      "age": 16,
+      "price_eur": 70.0,
+      "retailer": "Nicolas",
+      "retailer_type": "caviste"
+    },
+    {
+      "whisky": "Lagavulin 16",
+      "region": "Islay",
+      "age": 16,
+      "price_eur": 74.9,
+      "retailer": "La Maison du Whisky",
+      "retailer_type": "specialiste_online"
+    },
+    {
+      "whisky": "Lagavulin 16",
+      "region": "Islay",
+      "age": 16,
+      "price_eur": 76.0,
+      "retailer": "Whisky.fr",
+      "retailer_type": "specialiste_online"
+    },
+    {
+      "whisky": "Laphroaig 10",
+      "region": "Islay",
+      "age": 10,
+      "price_eur": 38.9,
+      "retailer": "Carrefour",
+      "retailer_type": "grande_distribution"
+    },
+    {
+      "whisky": "Laphroaig 10",
+      "region": "Islay",
+      "age": 10,
+      "price_eur": 40.0,
+      "retailer": "Leclerc",
+      "retailer_type": "grande_distribution"
+    },
+    {
+      "whisky": "Laphroaig 10",
+      "region": "Islay",
+      "age": 10,
+      "price_eur": 42.0,
+      "retailer": "Nicolas",
+      "retailer_type": "caviste"
+    },
+    {
+      "whisky": "Laphroaig 10",
+      "region": "Islay",
+      "age": 10,
+      "price_eur": 44.9,
+      "retailer": "La Maison du Whisky",
+      "retailer_type": "specialiste_online"
+    },
+    {
+      "whisky": "Bowmore 12",
+      "region": "Islay",
+      "age": 12,
+      "price_eur": 40.0,
+      "retailer": "Carrefour",
+      "retailer_type": "grande_distribution"
+    },
+    {
+      "whisky": "Bowmore 12",
+      "region": "Islay",
+      "age": 12,
+      "price_eur": 42.0,
+      "retailer": "Nicolas",
+      "retailer_type": "caviste"
+    },
+    {
+      "whisky": "Bowmore 12",
+      "region": "Islay",
+      "age": 12,
+      "price_eur": 44.9,
+      "retailer": "La Maison du Whisky",
+      "retailer_type": "specialiste_online"
+    },
+    {
+      "whisky": "Caol Ila 12",
+      "region": "Islay",
+      "age": 12,
+      "price_eur": 44.0,
+      "retailer": "Nicolas",
+      "retailer_type": "caviste"
+    },
+    {
+      "whisky": "Caol Ila 12",
+      "region": "Islay",
+      "age": 12,
+      "price_eur": 47.9,
+      "retailer": "La Maison du Whisky",
+      "retailer_type": "specialiste_online"
+    },
+    {
+      "whisky": "Caol Ila 12",
+      "region": "Islay",
+      "age": 12,
+      "price_eur": 49.0,
+      "retailer": "Whisky.fr",
+      "retailer_type": "specialiste_online"
+    },
+    {
+      "whisky": "Bunnahabhain 12",
+      "region": "Islay",
+      "age": 12,
+      "price_eur": 46.0,
+      "retailer": "La Maison du Whisky",
+      "retailer_type": "specialiste_online"
+    },
+    {
+      "whisky": "Bunnahabhain 12",
+      "region": "Islay",
+      "age": 12,
+      "price_eur": 48.9,
+      "retailer": "Whisky.fr",
+      "retailer_type": "specialiste_online"
+    },
+    {
+      "whisky": "Bunnahabhain 12",
+      "region": "Islay",
+      "age": 12,
+      "price_eur": 50.0,
+      "retailer": "Distilleries & Cie",
+      "retailer_type": "caviste"
+    },
+    {
+      "whisky": "Bruichladdich Classic Laddie",
+      "region": "Islay",
+      "age": 10,
+      "price_eur": 40.0,
+      "retailer": "Nicolas",
+      "retailer_type": "caviste"
+    },
+    {
+      "whisky": "Bruichladdich Classic Laddie",
+      "region": "Islay",
+      "age": 10,
+      "price_eur": 43.9,
+      "retailer": "La Maison du Whisky",
+      "retailer_type": "specialiste_online"
+    },
+    {
+      "whisky": "Bruichladdich Classic Laddie",
+      "region": "Islay",
+      "age": 10,
+      "price_eur": 45.0,
+      "retailer": "Whisky.fr",
+      "retailer_type": "specialiste_online"
+    },
+    {
+      "whisky": "Port Charlotte 10",
+      "region": "Islay",
+      "age": 10,
+      "price_eur": 50.0,
+      "retailer": "La Maison du Whisky",
+      "retailer_type": "specialiste_online"
+    },
+    {
+      "whisky": "Port Charlotte 10",
+      "region": "Islay",
+      "age": 10,
+      "price_eur": 52.9,
+      "retailer": "Whisky.fr",
+      "retailer_type": "specialiste_online"
+    },
+    {
+      "whisky": "Port Charlotte 10",
+      "region": "Islay",
+      "age": 10,
+      "price_eur": 54.0,
+      "retailer": "La Part des Anges",
+      "retailer_type": "caviste"
+    },
+    {
+      "whisky": "Auchentoshan 12",
+      "region": "Lowlands",
+      "age": 12,
+      "price_eur": 35.0,
+      "retailer": "Carrefour",
+      "retailer_type": "grande_distribution"
+    },
+    {
+      "whisky": "Auchentoshan 12",
+      "region": "Lowlands",
+      "age": 12,
+      "price_eur": 36.9,
+      "retailer": "Nicolas",
+      "retailer_type": "caviste"
+    },
+    {
+      "whisky": "Auchentoshan 12",
+      "region": "Lowlands",
+      "age": 12,
+      "price_eur": 39.9,
+      "retailer": "La Maison du Whisky",
+      "retailer_type": "specialiste_online"
+    },
+    {
+      "whisky": "Glenkinchie 12",
+      "region": "Lowlands",
+      "age": 12,
+      "price_eur": 40.0,
+      "retailer": "Nicolas",
+      "retailer_type": "caviste"
+    },
+    {
+      "whisky": "Glenkinchie 12",
+      "region": "Lowlands",
+      "age": 12,
+      "price_eur": 43.9,
+      "retailer": "La Maison du Whisky",
+      "retailer_type": "specialiste_online"
+    },
+    {
+      "whisky": "Bladnoch 10",
+      "region": "Lowlands",
+      "age": 10,
+      "price_eur": 42.0,
+      "retailer": "La Maison du Whisky",
+      "retailer_type": "specialiste_online"
+    },
+    {
+      "whisky": "Bladnoch 10",
+      "region": "Lowlands",
+      "age": 10,
+      "price_eur": 44.9,
+      "retailer": "Whisky.fr",
+      "retailer_type": "specialiste_online"
+    },
+    {
+      "whisky": "Springbank 10",
+      "region": "Campbeltown",
+      "age": 10,
+      "price_eur": 55.0,
+      "retailer": "La Maison du Whisky",
+      "retailer_type": "specialiste_online"
+    },
+    {
+      "whisky": "Springbank 10",
+      "region": "Campbeltown",
+      "age": 10,
+      "price_eur": 57.9,
+      "retailer": "Whisky.fr",
+      "retailer_type": "specialiste_online"
+    },
+    {
+      "whisky": "Springbank 10",
+      "region": "Campbeltown",
+      "age": 10,
+      "price_eur": 60.0,
+      "retailer": "Distilleries & Cie",
+      "retailer_type": "caviste"
+    },
+    {
+      "whisky": "Springbank 10",
+      "region": "Campbeltown",
+      "age": 10,
+      "price_eur": 62.0,
+      "retailer": "La Part des Anges",
+      "retailer_type": "caviste"
+    },
+    {
+      "whisky": "Springbank 15",
+      "region": "Campbeltown",
+      "age": 15,
+      "price_eur": 85.0,
+      "retailer": "La Maison du Whisky",
+      "retailer_type": "specialiste_online"
+    },
+    {
+      "whisky": "Springbank 15",
+      "region": "Campbeltown",
+      "age": 15,
+      "price_eur": 89.9,
+      "retailer": "Whisky.fr",
+      "retailer_type": "specialiste_online"
+    },
+    {
+      "whisky": "Springbank 15",
+      "region": "Campbeltown",
+      "age": 15,
+      "price_eur": 95.0,
+      "retailer": "La Part des Anges",
+      "retailer_type": "caviste"
+    },
+    {
+      "whisky": "Kilkerran 12",
+      "region": "Campbeltown",
+      "age": 12,
+      "price_eur": 50.0,
+      "retailer": "La Maison du Whisky",
+      "retailer_type": "specialiste_online"
+    },
+    {
+      "whisky": "Kilkerran 12",
+      "region": "Campbeltown",
+      "age": 12,
+      "price_eur": 52.9,
+      "retailer": "Whisky.fr",
+      "retailer_type": "specialiste_online"
+    },
+    {
+      "whisky": "Kilkerran 12",
+      "region": "Campbeltown",
+      "age": 12,
+      "price_eur": 55.0,
+      "retailer": "Distilleries & Cie",
+      "retailer_type": "caviste"
+    },
+    {
+      "whisky": "Glen Scotia Double Cask",
+      "region": "Campbeltown",
+      "age": 10,
+      "price_eur": 40.0,
+      "retailer": "La Maison du Whisky",
+      "retailer_type": "specialiste_online"
+    },
+    {
+      "whisky": "Glen Scotia Double Cask",
+      "region": "Campbeltown",
+      "age": 10,
+      "price_eur": 42.9,
+      "retailer": "Whisky.fr",
+      "retailer_type": "specialiste_online"
+    },
+    {
+      "whisky": "Talisker 10",
+      "region": "Islands",
+      "age": 10,
+      "price_eur": 40.0,
+      "retailer": "Carrefour",
+      "retailer_type": "grande_distribution"
+    },
+    {
+      "whisky": "Talisker 10",
+      "region": "Islands",
+      "age": 10,
+      "price_eur": 41.9,
+      "retailer": "Leclerc",
+      "retailer_type": "grande_distribution"
+    },
+    {
+      "whisky": "Talisker 10",
+      "region": "Islands",
+      "age": 10,
+      "price_eur": 44.0,
+      "retailer": "Nicolas",
+      "retailer_type": "caviste"
+    },
+    {
+      "whisky": "Talisker 10",
+      "region": "Islands",
+      "age": 10,
+      "price_eur": 46.9,
+      "retailer": "La Maison du Whisky",
+      "retailer_type": "specialiste_online"
+    },
+    {
+      "whisky": "Talisker 10",
+      "region": "Islands",
+      "age": 10,
+      "price_eur": 47.5,
+      "retailer": "Whisky.fr",
+      "retailer_type": "specialiste_online"
+    },
+    {
+      "whisky": "Highland Park 12",
+      "region": "Islands",
+      "age": 12,
+      "price_eur": 40.0,
+      "retailer": "Carrefour",
+      "retailer_type": "grande_distribution"
+    },
+    {
+      "whisky": "Highland Park 12",
+      "region": "Islands",
+      "age": 12,
+      "price_eur": 42.0,
+      "retailer": "Nicolas",
+      "retailer_type": "caviste"
+    },
+    {
+      "whisky": "Highland Park 12",
+      "region": "Islands",
+      "age": 12,
+      "price_eur": 44.9,
+      "retailer": "La Maison du Whisky",
+      "retailer_type": "specialiste_online"
+    },
+    {
+      "whisky": "Highland Park 12",
+      "region": "Islands",
+      "age": 12,
+      "price_eur": 45.5,
+      "retailer": "Whisky.fr",
+      "retailer_type": "specialiste_online"
+    },
+    {
+      "whisky": "Highland Park 18",
+      "region": "Islands",
+      "age": 18,
+      "price_eur": 78.0,
+      "retailer": "Nicolas",
+      "retailer_type": "caviste"
+    },
+    {
+      "whisky": "Highland Park 18",
+      "region": "Islands",
+      "age": 18,
+      "price_eur": 82.9,
+      "retailer": "La Maison du Whisky",
+      "retailer_type": "specialiste_online"
+    },
+    {
+      "whisky": "Highland Park 18",
+      "region": "Islands",
+      "age": 18,
+      "price_eur": 85.0,
+      "retailer": "Whisky.fr",
+      "retailer_type": "specialiste_online"
+    },
+    {
+      "whisky": "Scapa Skiren",
+      "region": "Islands",
+      "age": 10,
+      "price_eur": 42.0,
+      "retailer": "La Maison du Whisky",
+      "retailer_type": "specialiste_online"
+    },
+    {
+      "whisky": "Scapa Skiren",
+      "region": "Islands",
+      "age": 10,
+      "price_eur": 44.9,
+      "retailer": "Whisky.fr",
+      "retailer_type": "specialiste_online"
+    },
+    {
+      "whisky": "Arran 10",
+      "region": "Islands",
+      "age": 10,
+      "price_eur": 38.0,
+      "retailer": "La Maison du Whisky",
+      "retailer_type": "specialiste_online"
+    },
+    {
+      "whisky": "Arran 10",
+      "region": "Islands",
+      "age": 10,
+      "price_eur": 40.9,
+      "retailer": "Whisky.fr",
+      "retailer_type": "specialiste_online"
+    },
+    {
+      "whisky": "Arran 10",
+      "region": "Islands",
+      "age": 10,
+      "price_eur": 42.0,
+      "retailer": "Distilleries & Cie",
+      "retailer_type": "caviste"
+    },
+    {
+      "whisky": "Isle of Jura 10",
+      "region": "Islands",
+      "age": 10,
+      "price_eur": 34.9,
+      "retailer": "Carrefour",
+      "retailer_type": "grande_distribution"
+    },
+    {
+      "whisky": "Isle of Jura 10",
+      "region": "Islands",
+      "age": 10,
+      "price_eur": 36.0,
+      "retailer": "Nicolas",
+      "retailer_type": "caviste"
+    },
+    {
+      "whisky": "Isle of Jura 10",
+      "region": "Islands",
+      "age": 10,
+      "price_eur": 38.9,
+      "retailer": "La Maison du Whisky",
+      "retailer_type": "specialiste_online"
+    },
+    {
+      "whisky": "Ledaig 10",
+      "region": "Islands",
+      "age": 10,
+      "price_eur": 40.0,
+      "retailer": "La Maison du Whisky",
+      "retailer_type": "specialiste_online"
+    },
+    {
+      "whisky": "Ledaig 10",
+      "region": "Islands",
+      "age": 10,
+      "price_eur": 42.9,
+      "retailer": "Whisky.fr",
+      "retailer_type": "specialiste_online"
+    },
+    {
+      "whisky": "Ledaig 10",
+      "region": "Islands",
+      "age": 10,
+      "price_eur": 44.0,
+      "retailer": "La Part des Anges",
+      "retailer_type": "caviste"
+    }
+  ],
+  "price_evolution": {
+    "Ardbeg 10": {
+      "2020": 38.0,
+      "2021": 40.0,
+      "2022": 43.0,
+      "2023": 46.0,
+      "2024": 49.0,
+      "2025": 50.0
+    },
+    "Glenfiddich 12": {
+      "2020": 25.0,
+      "2021": 26.0,
+      "2022": 28.0,
+      "2023": 30.0,
+      "2024": 32.0,
+      "2025": 34.0
+    },
+    "Macallan 12 DC": {
+      "2020": 42.0,
+      "2021": 44.0,
+      "2022": 47.0,
+      "2023": 51.0,
+      "2024": 53.0,
+      "2025": 55.0
+    },
+    "Lagavulin 16": {
+      "2020": 58.0,
+      "2021": 61.0,
+      "2022": 65.0,
+      "2023": 70.0,
+      "2024": 74.0,
+      "2025": 76.0
+    },
+    "Laphroaig 10": {
+      "2020": 33.0,
+      "2021": 35.0,
+      "2022": 38.0,
+      "2023": 41.0,
+      "2024": 43.0,
+      "2025": 45.0
+    },
+    "Talisker 10": {
+      "2020": 33.0,
+      "2021": 35.0,
+      "2022": 38.0,
+      "2023": 42.0,
+      "2024": 45.0,
+      "2025": 47.0
+    },
+    "Highland Park 12": {
+      "2020": 34.0,
+      "2021": 36.0,
+      "2022": 38.0,
+      "2023": 41.0,
+      "2024": 44.0,
+      "2025": 45.0
+    },
+    "Springbank 10": {
+      "2020": 44.0,
+      "2021": 47.0,
+      "2022": 51.0,
+      "2023": 55.0,
+      "2024": 58.0,
+      "2025": 60.0
+    },
+    "Glenmorangie 10": {
+      "2020": 28.0,
+      "2021": 29.0,
+      "2022": 31.0,
+      "2023": 34.0,
+      "2024": 36.0,
+      "2025": 37.0
+    },
+    "Bowmore 12": {
+      "2020": 35.0,
+      "2021": 37.0,
+      "2022": 39.0,
+      "2023": 42.0,
+      "2024": 44.0,
+      "2025": 45.0
+    },
+    "Balvenie 12 DW": {
+      "2020": 44.0,
+      "2021": 46.0,
+      "2022": 49.0,
+      "2023": 53.0,
+      "2024": 55.0,
+      "2025": 57.0
+    },
+    "Speyburn 10": {
+      "2020": 22.0,
+      "2021": 23.0,
+      "2022": 24.0,
+      "2023": 26.0,
+      "2024": 27.0,
+      "2025": 28.0
+    }
+  },
+  "metadata": {
+    "total_entries": 160,
+    "unique_whiskies": 51,
+    "regions": [
+      "Islands",
+      "Campbeltown",
+      "Lowlands",
+      "Speyside",
+      "Islay",
+      "Highlands"
+    ],
+    "retailer_types": [
+      "grande_distribution",
+      "specialiste_online",
+      "caviste"
+    ],
+    "sources": "Données marché consolidées 2025-2026 (La Maison du Whisky, Whisky.fr, Nicolas, Carrefour, Leclerc, Auchan, La Part des Anges, Distilleries & Cie)",
+    "updated": "2026-03"
+  }
+}
